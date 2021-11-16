@@ -1,4 +1,8 @@
-# st2
+# standard
+
+前端开发规范
+- C端
+- 中后台
 
 ## Getting Started
 
