@@ -301,7 +301,8 @@ export default () => {
 ```
 
 ### Table宽度
-为了适配多端正常使用，Table整体应该存在一个宽度。 //TODO
+为了适配多端正常使用，Table整体应该存在一个宽度。请使用配置 [`scroll.x`](https://ant.design/components/table-cn#scroll)
+
 #### 代码演示
 
 ### 列宽度
